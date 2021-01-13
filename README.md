@@ -1,4 +1,4 @@
 # AJAX-Giphy
-### Makes AJAX calls to get a gif based on search
+### Makes AJAX calls that return a GIF based on the search input
 * Async Functions and API
 
